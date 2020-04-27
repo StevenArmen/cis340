@@ -1,0 +1,17 @@
+{
+  "name": "MyFourthProject",
+  "displayName": "MyFourthProject",
+  "expo": {
+    "name": "MyFourthProject",
+    "slug": "MyFourthProject",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
